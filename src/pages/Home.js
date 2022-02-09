@@ -3,6 +3,7 @@ import React from 'react';
 import Header from '../components/Header';
 import Cover from '../components/Cover';
 import Info from '../components/Info';
+import Footer from '../components/Footer';
 
 export default function Home() {
     return (
@@ -10,6 +11,7 @@ export default function Home() {
             <Header />
             <Cover />
             <Info />
+            <Footer />
         </>
     );
 }

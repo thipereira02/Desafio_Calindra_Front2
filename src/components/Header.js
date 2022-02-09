@@ -47,6 +47,7 @@ const Head = styled.div`
 
 const Logo = styled.div`
     display: flex;
+    cursor: pointer;
     
     h1{
         font-size: 41.2px;
