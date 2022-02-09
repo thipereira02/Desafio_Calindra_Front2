@@ -36,7 +36,8 @@ const Head = styled.div`
     height: 110px;
     width: 100%;
     padding: 0 60px;
-    background: #cecece;
+    background: #FFF;
+    z-index: 2;
 
     @media (max-width: 375px) {
         height: 57px;
